@@ -17,7 +17,7 @@ O projeto opera em um pipeline de dados de duas fases:
 
 ### 1. Preparação de Dados (P1)
 
-O programa **P1** lê um arquivo no formato CSV (ex: `taco_4_edicao.csv`), realiza o _parsing_ dos campos e gera um arquivo binário (`dados.bin`).
+O programa **P1** lê um arquivo no formato CSV (`alimentos.csv`), realiza o _parsing_ dos campos e gera um arquivo binário (`dados.bin`).
 
 - Filtra campos específicos: Número, Descrição, Energia (kcal) e Proteína (g).
 - Mapeia descrições de texto para categorias formais via `enum`.
