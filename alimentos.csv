@@ -1,0 +1,101 @@
+Numero;Descricao;Umidade;Energia;Proteina;Carboidrato;Categoria
+2;Arroz integral cru;12.2;360;7.3;77.5;Cereais e derivados
+8;Biscoito doce maisena;3.2;443;8.1;75.2;Cereais e derivados
+15;Bolo pronto aipim;34.1;324;4.4;47.9;Cereais e derivados
+24;Cereais mistura para vitamina trigo cevada e aveia;4.4;381;8.9;81.6;Cereais e derivados
+33;Farinha de milho amarela;11.8;351;7.2;79.1;Cereais e derivados
+39;Macarrao instantaneo;6.0;436;8.8;62.4;Cereais e derivados
+45;Milho verde enlatado drenado;76.2;98;3.2;17.1;Cereais e derivados
+51;Pao milho forma;30.4;292;8.3;56.4;Cereais e derivados
+56;Pastel de carne frito;22.9;388;10.1;43.8;Cereais e derivados
+62;Polenta pre-cozida;72.7;103;2.3;23.3;Cereais e derivados
+66;Abobora menina brasileira crua;95.7;14;0.6;3.3;Verduras hortalicas e derivados
+75;Agriao cru;93.9;17;2.7;2.3;Verduras hortalicas e derivados
+81;Alfavaca crua;90.2;29;2.7;5.2;Verduras hortalicas e derivados
+96;Berinjela crua;93.8;20;1.2;4.4;Verduras hortalicas e derivados
+104;Caruru cru;87.6;34;3.2;6.0;Verduras hortalicas e derivados
+115;Couve manteiga crua;90.9;27;2.9;4.3;Verduras hortalicas e derivados
+129;Mandioca cozida;68.7;125;0.6;30.1;Verduras hortalicas e derivados
+138;Palmito jucara em conserva;91.4;23;1.8;4.3;Verduras hortalicas e derivados
+149;Repolho branco cru;94.7;17;0.9;3.9;Verduras hortalicas e derivados
+157;Tomate com semente cru;95.1;15;1.1;3.1;Verduras hortalicas e derivados
+163;Abacate cru;83.8;96;1.2;6.0;Frutas e derivados
+174;Atimoia crua;72.7;97;1.0;25.3;Frutas e derivados
+182;Banana prata crua;71.9;98;1.3;26.0;Frutas e derivados
+191;Ciriguela crua;78.7;76;1.4;18.9;Frutas e derivados
+200;Goiaba vermelha com casca crua;85.0;54;1.1;13.0;Frutas e derivados
+210;Laranja da terra crua;85.4;51;1.1;12.9;Frutas e derivados
+222;Maca Fuji com casca crua;84.3;56;0.3;15.2;Frutas e derivados
+233;Maracuja polpa congelada;88.9;39;0.8;9.6;Frutas e derivados
+241;Pequi cru;65.9;205;2.3;13.0;Frutas e derivados
+253;Tucuma cru;51.3;262;2.1;26.5;Frutas e derivados
+275;Abadejo file congelado cru;86.4;59;13.1;0.0;Pescados e frutos do mar
+280;Bacalhau salgado refogado;65.9;140;24.0;1.2;Pescados e frutos do mar
+285;Camarao Rio Grande grande cru;89.1;47;10.0;0.0;Pescados e frutos do mar
+293;Corvina grande assada;69.0;147;26.8;0.0;Pescados e frutos do mar
+297;Lambari congelado frito;40.1;327;28.4;0.0;Pescados e frutos do mar
+302;Merluza file cru;82.1;89;16.6;0.0;Pescados e frutos do mar
+306;Pescada file com farinha de trigo frito;53.2;283;21.4;5.0;Pescados e frutos do mar
+311;Pintado assado;57.0;192;36.5;0.0;Pescados e frutos do mar
+315;Salmao file com pele fresco grelhado;60.9;229;23.9;0.0;Pescados e frutos do mar
+321;Sardinha inteira crua;76.6;114;21.1;0.0;Pescados e frutos do mar
+323;Apresuntado;73.7;129;13.5;2.9;Carnes e derivados
+331;Carne bovina almondegas fritas;48.1;272;18.2;14.3;Carnes e derivados
+342;Carne bovina contra-file de costela grelhado;52.2;275;29.9;0.0;Carnes e derivados
+353;Carne bovina cupim assado;48.4;330;28.6;0.0;Carnes e derivados
+361;Carne bovina fraldinha com gordura cozida;49.7;338;24.2;0.0;Carnes e derivados
+377;Carne bovina patinho sem gordura grelhado;55.2;219;35.9;0.0;Carnes e derivados
+386;Coxinha de frango frita;42.2;283;9.6;34.5;Carnes e derivados
+401;Frango file a milanesa;54.9;221;28.5;7.5;Carnes e derivados
+416;Hamburguer bovino frito;52.5;258;20.0;6.3;Carnes e derivados
+425;Peru congelado assado;65.3;163;26.2;0.0;Carnes e derivados
+447;Creme de Leite;70.9;221;1.5;4.5;Leite e derivados
+451;Iogurte sabor morango;84.6;70;2.7;9.7;Leite e derivados
+455;Leite de vaca achocolatado;80.9;83;2.1;14.2;Leite e derivados
+459;Leite de vaca integral po;2.7;497;25.4;39.2;Leite e derivados
+461;Queijo minas frescal;56.1;264;17.4;3.2;Leite e derivados
+463;Queijo mozarela;45.3;330;22.6;3.0;Leite e derivados
+464;Queijo parmesao;21.2;453;35.6;1.7;Leite e derivados
+466;Queijo petit suisse morango;72.2;121;5.8;18.5;Leite e derivados
+468;Queijo requeijao cremoso;62.5;257;9.6;2.4;Leite e derivados
+469;Queijo ricota;73.6;140;12.6;3.8;Leite e derivados
+491;Achocolatado po;1.1;401;4.2;91.2;Produtos acucarados
+495;Chocolate ao leite;1.3;540;7.2;59.6;Produtos acucarados
+499;Cocada branca;3.4;449;1.1;81.4;Produtos acucarados
+501;Doce de leite cremoso;27.5;306;5.5;59.5;Produtos acucarados
+502;Geleia mocoto natural;73.5;106;2.1;24.2;Produtos acucarados
+505;Maria mole coco queimado;20.7;307;3.9;75.1;Produtos acucarados
+507;Mel de abelha;15.8;309;0.0;84.0;Produtos acucarados
+508;Melado;22.1;297;0.0;76.6;Produtos acucarados
+509;Quindim;23.9;411;4.7;46.3;Produtos acucarados
+510;Rapadura;7.1;352;1.0;90.8;Produtos acucarados
+525;Acaraje;50.5;289;8.3;19.1;Alimentos preparados
+527;Baiao de dois arroz e feijao-de-corda;69.1;136;6.2;20.4;Alimentos preparados
+531;Camarao a baiana;82.0;101;7.9;3.2;Alimentos preparados
+536;Dobradinha;75.3;125;19.8;0.0;Alimentos preparados
+540;Feijoada;71.8;117;8.7;11.6;Alimentos preparados
+543;Manicoba;76.4;134;10.0;3.4;Alimentos preparados
+547;Salpicao de frango;72.5;148;13.9;4.6;Alimentos preparados
+551;Tapioca com manteiga;24.9;348;0.1;63.6;Alimentos preparados
+554;Vatapa;58.4;255;6.0;9.7;Alimentos preparados
+556;Yakisoba;69.4;113;7.5;18.3;Alimentos preparados
+557;Amendoim grao cru;6.4;544;27.2;20.3;Leguminosas e derivados
+560;Ervilha enlatada drenada;80.1;74;4.6;13.4;Leguminosas e derivados
+562;Feijao carioca cru;14.0;329;20.0;61.2;Leguminosas e derivados
+565;Feijao jalo cozido;75.8;93;6.1;16.5;Leguminosas e derivados
+568;Feijao preto cru;14.9;324;21.3;58.8;Leguminosas e derivados
+571;Feijao rosinha cozido;82.6;68;4.5;11.8;Leguminosas e derivados
+574;Feijao roxo cru;12.6;331;22.2;60.0;Leguminosas e derivados
+577;Lentilha cozida;76.3;93;6.3;16.3;Leguminosas e derivados
+581;Soja farinha;5.8;404;36.0;38.4;Leguminosas e derivados
+584;Soja queijo tofu;86.6;64;6.6;2.1;Leguminosas e derivados
+587;Amendoa torrada salgada;3.1;581;18.6;29.5;Nozes e sementes
+588;Castanha-de-caju torrada salgada;3.5;570;18.5;29.1;Nozes e sementes
+589;Castanha-do-Brasil crua;3.5;643;14.5;15.1;Nozes e sementes
+590;Coco cru;43.0;406;3.7;10.4;Nozes e sementes
+592;Farinha de mesocarpo de babacu crua;15.8;329;1.4;79.2;Nozes e sementes
+593;Gergelim semente;3.9;584;21.2;21.6;Nozes e sementes
+594;Linaca semente;6.7;495;14.1;43.3;Nozes e sementes
+595;Pinhao cozido;50.5;174;3.0;43.9;Nozes e sementes
+596;Pupunha cozida;54.5;219;2.5;29.6;Nozes e sementes
+597;Noz crua;6.2;620;14.0;18.4;Nozes e sementes
